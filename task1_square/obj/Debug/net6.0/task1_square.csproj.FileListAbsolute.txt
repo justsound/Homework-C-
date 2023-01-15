@@ -1,0 +1,15 @@
+C:\саша\знакомство с языками программирования\домашнее задание\task1_square\bin\Debug\net6.0\task1_square.exe
+C:\саша\знакомство с языками программирования\домашнее задание\task1_square\bin\Debug\net6.0\task1_square.deps.json
+C:\саша\знакомство с языками программирования\домашнее задание\task1_square\bin\Debug\net6.0\task1_square.runtimeconfig.json
+C:\саша\знакомство с языками программирования\домашнее задание\task1_square\bin\Debug\net6.0\task1_square.dll
+C:\саша\знакомство с языками программирования\домашнее задание\task1_square\bin\Debug\net6.0\task1_square.pdb
+C:\саша\знакомство с языками программирования\домашнее задание\task1_square\obj\Debug\net6.0\task1_square.csproj.AssemblyReference.cache
+C:\саша\знакомство с языками программирования\домашнее задание\task1_square\obj\Debug\net6.0\task1_square.GeneratedMSBuildEditorConfig.editorconfig
+C:\саша\знакомство с языками программирования\домашнее задание\task1_square\obj\Debug\net6.0\task1_square.AssemblyInfoInputs.cache
+C:\саша\знакомство с языками программирования\домашнее задание\task1_square\obj\Debug\net6.0\task1_square.AssemblyInfo.cs
+C:\саша\знакомство с языками программирования\домашнее задание\task1_square\obj\Debug\net6.0\task1_square.csproj.CoreCompileInputs.cache
+C:\саша\знакомство с языками программирования\домашнее задание\task1_square\obj\Debug\net6.0\task1_square.dll
+C:\саша\знакомство с языками программирования\домашнее задание\task1_square\obj\Debug\net6.0\refint\task1_square.dll
+C:\саша\знакомство с языками программирования\домашнее задание\task1_square\obj\Debug\net6.0\task1_square.pdb
+C:\саша\знакомство с языками программирования\домашнее задание\task1_square\obj\Debug\net6.0\task1_square.genruntimeconfig.cache
+C:\саша\знакомство с языками программирования\домашнее задание\task1_square\obj\Debug\net6.0\ref\task1_square.dll
